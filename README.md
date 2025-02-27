@@ -4,7 +4,9 @@ Welcome to the repository for the T.R.E.S.\
 This is an app designed to provide guidance for risk of tornadoes based on sounding data. 
 > [!WARNING]
 > This software is meant solely for guidance. No risk is a guarantee.
-\Planned improvements\
+
+
+Planned improvements\
 -Visual risk\
 -Better graphic design (I prefer doing backend work so this is long term)\
 
