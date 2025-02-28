@@ -9,6 +9,6 @@ This is an app designed to provide guidance for risk of tornadoes based on sound
 **Planned improvements**\
 -Visual risk\
 -Better graphic design (I prefer doing backend work so this is long term)\
-\_This software is currently unfinished. Feel free to contact me via methods below for details_
+\__This software is currently unfinished. Feel free to contact me via methods below for details__
 ### Contact Info
 Discord: racc.00n
