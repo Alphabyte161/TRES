@@ -7,8 +7,11 @@ This is an app designed to provide guidance for risk of tornadoes based on sound
 
 
 **Planned improvements**\
--Visual risk\
 -Better graphic design (I prefer doing backend work so this is long term)\
+-Actual release (such as exe file)\
+-properly weighted values for calculation\
+-lapse rate calculations\
+-finishing shear, thermo, and indicies\
 _This software is currently unfinished. Feel free to contact me via methods below for details_
 ### Contact Info
 Discord: racc.00n
