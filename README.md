@@ -11,7 +11,9 @@ This is an app designed to provide guidance for risk of tornadoes based on sound
 -Actual release (such as exe file)\
 -properly weighted values for calculation\
 -lapse rate calculations\
--finishing shear, thermo, and indicies
+-finishing shear, thermo, and indicies\
+-ability to input skew-t text files\
+-maybe automatic polling of data for a point?\
 ### Want to assist with development or have questions?
 **Contact me via discord!**\
 Discord: racc.00n
