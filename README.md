@@ -12,6 +12,6 @@ This is an app designed to provide guidance for risk of tornadoes based on sound
 -properly weighted values for calculation\
 -lapse rate calculations\
 -finishing shear, thermo, and indicies\
-_This software is currently unfinished. Feel free to contact me via methods below for details_
-### Contact Info
+### Want to assist with development or have questions?
+**Contact me via discord!**\
 Discord: racc.00n
