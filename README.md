@@ -1,5 +1,6 @@
 # T.R.E.S.
 ## _**T**ornado **R**isk **E**valuation **S**ystem_
+![T](https://github.com/user-attachments/assets/e0514347-06f0-4372-b94a-e896e77f26aa)
 Welcome to the repository for the T.R.E.S.\
 This is an app designed to provide guidance for risk of tornadoes based on sounding and/or model data. 
 > [!WARNING]
@@ -17,3 +18,4 @@ This is an app designed to provide guidance for risk of tornadoes based on sound
 ### Want to assist with development or have questions?
 **Contact me via discord!**\
 Discord: racc.00n
+
