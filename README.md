@@ -12,8 +12,6 @@ This is an app designed to provide guidance for risk of tornadoes based on sound
 
 **Planned improvements**\
 -Better graphic design (I prefer doing backend work so this is long term)\
--Actual release (such as exe file)\
--properly weighted values for calculation\
 -lapse rate calculations\
 -finishing thermo panels\
 -ability to input skew-t text files\
