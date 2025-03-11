@@ -4,7 +4,8 @@
 This is an app designed to provide guidance for risk of tornadoes based on sounding and/or model data. 
 > [!WARNING]
 > This software is meant solely for guidance. No risk is a guarantee.
-**F.A.Q.**
+
+**F.A.Q.**\
 Q: How do I install?\
 A: Click releases on the right, and download the .exe installer for the latest version.\
 
