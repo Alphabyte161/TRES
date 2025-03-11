@@ -1,11 +1,12 @@
 # T.R.E.S.
 ## _**T**ornado **R**isk **E**valuation **S**ystem_
-Welcome to the repository for the T.R.E.S.\
 ![T (2)](https://github.com/user-attachments/assets/273372da-5ee3-4d96-8f12-beff65d585ad)\
 This is an app designed to provide guidance for risk of tornadoes based on sounding and/or model data. 
 > [!WARNING]
 > This software is meant solely for guidance. No risk is a guarantee.
-
+**F.A.Q.**
+Q: How do I install?\
+A: Click releases on the right, and download the .exe installer for the latest version.\
 
 **Planned improvements**\
 -Better graphic design (I prefer doing backend work so this is long term)\
